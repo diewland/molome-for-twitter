@@ -1,5 +1,5 @@
 // DEBUG
-var DEBUG = false;
+var DEBUG = true;
 function log(msg){ if(DEBUG){ console.log('MOLOME EXT : ' + msg); } }
 
 // GLOBAL VARIABLE
