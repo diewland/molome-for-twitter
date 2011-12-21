@@ -38,7 +38,7 @@ function initial(){
 	});
 
 	/*
-	// TODO TODO
+	// TODO
 	// bind event to add photo icon when timeline load
 	// how to check when change to new page ( height will reduce )
 	var TRIGGER = 1500; // trigger
