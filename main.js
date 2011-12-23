@@ -1,3 +1,4 @@
-var o = new TwitterImagePreview();
-o.initial({ debug : true });
-// o.initial();
+var t = new TwitterImagePreview(molome);
+t.initial({
+	// debug : true
+});

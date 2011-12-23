@@ -1,6 +1,6 @@
 {
   "name": "MOLOME for Twitter (Unofficial)",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Preview image from molo.me in Twitter.com",
   "icons": {
     "48" : "48.png",
@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": [ "*://twitter.com/*" ],
-      "js" : ["jquery-1.7.min.js", "twitter-image-preview.js", "main.js"]
+      "js" : ["jquery-1.7.min.js", "twitter-image-preview.js", "molome.js", "main.js"]
     }
   ]
 }
